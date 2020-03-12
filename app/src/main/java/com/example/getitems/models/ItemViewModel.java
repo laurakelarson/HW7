@@ -27,10 +27,9 @@ public class ItemViewModel {
     private static final int COUNT = 25;
 
     static {
-        // Add some sample items.
-        addItem(new ItemModel("Gold Sword", "Really Sharp", 1, 1, 1,ItemLocationEnum.PrimaryHand, "sword2"));
-        addItem(new ItemModel("Strong Shield", "Good and Strong", 0, 0, 2,ItemLocationEnum.OffHand,"shield4a"));
-        addItem(new ItemModel("Bunny Hat", "I Live for speed", 0, 0, 3,ItemLocationEnum.Head,"hat1"));
+        addItem(new ItemModel("Rock Ock", "An eight-headed guitar for all your attack needs", 3, 8, 3,ItemLocationEnum.PrimaryHand, "item_rock_ock"));
+        addItem(new ItemModel("Headphones", "A way to drown out your enemies screams and listen to your favorite music instead", 0, 0, 2,ItemLocationEnum.Head,"item_headphones"));
+        addItem(new ItemModel("Energy Drink", "A good way to perk up during battle", 0, 0, 3,ItemLocationEnum.OffHand,"item_energy_drink"));
     }
 
     private static void addItem(ItemModel item) {

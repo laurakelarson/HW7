@@ -2,22 +2,22 @@
 <resources>
 
 
-    <color name="pageBackgroundcolor">#D9C6B0</color>
-    <color name="viewBackgroundcolor">#BF895A</color>
-    <color name="navigationBarcolor">#D9C6B0</color>
+    <color name="pageBackgroundColor">#CBE56B</color>
+    <color name="viewBackgroundColor">#0F0228</color>
+    <color name="navigationBarColor">#0F084B</color>
 
-    <color name="primaryBackgroundcolor">#D9C6B0</color>
-    <color name="secondaryBackgroundcolor">#BF895A</color>
-    <color name="triciaryBackgroundcolor">#733612</color>
-    <color name="lightBackgroundcolor">#FFE4C4</color>
+    <color name="primaryBackgroundColor">#F7FFE1</color>
+    <color name="secondaryBackgroundColor">#0F0228</color>
+    <color name="tertiaryBackgroundColor">#0F084B</color>
+    <color name="lightBackgroundColor">#CBE56B</color>
 
-    <color name="primaryTextcolor">#400D01</color>
-    <color name="secondaryTextcolor">#8C3D20</color>
-    <color name="triciaryTextcolor">#733612</color>
+    <color name="primaryTextColor">#09011B</color>
+    <color name="secondaryTextColor">#0F084B</color>
+    <color name="tertiaryTextColor">#CBE56B</color>
 
 
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
+    <color name="colorPrimary">#CBE56B</color>
+    <color name="colorPrimaryDark">#0F084B</color>
+    <color name="colorAccent">#EEC256</color>
 
 </resources>
