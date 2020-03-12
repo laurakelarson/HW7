@@ -41,25 +41,25 @@ public enum ItemLocationEnum {
     public String toString() {
         switch(this){
             case Unknown:
-                return getString(R.string.Unknown);
+                return "Unknown";
             case Head:
-                return getString(R.string.Head);
+                return "Head";
             case Necklass:
-                return getString(R.string.Necklace);
+                return "Necklace";
             case PrimaryHand:
-                return getString(R.string.PrimaryHand);
+                return "Necklace";
             case OffHand:
-                return getString(R.string.OffHand);
+                return "Offhand";
             case Finger:
-                return getString(R.string.AnyFinger);
+                return "Any Finger";
             case RightFinger:
-                return getString(R.string.RFinger);
+                return "Right Finger";
             case LeftFinger:
-                return getString(R.string.LFinger);
+                return "Left Finger";
             case Feet:
-                return getString(R.string.Feet);
+                return "Feet";
         }
-        return getString(R.string.Unknown);
+        return "Unknown";
     }
 
     private int intValue;
